@@ -425,8 +425,8 @@ class Main:
 		print(" [3] Create File")
 		print(" [4] 2008-9 Cloning")
 		print(" [5] 2010-15 Cloning")
-		print(" [6] 2004-2005 Cloning Paid 'Coming soon' ")
-		print(" [7] 2006-2007 Cloning Paid 'Coming soon' ")
+		print(" [6] 2004-2005 Cloning Paid 'off' ")
+		print(" [7] 2006-2007 Cloning Paid 'off' ")
 		print(" [E] Exit Programming\n")
 		TUTUL =input(" Choose : ")
 		if TUTUL in ["1", "01"]:
